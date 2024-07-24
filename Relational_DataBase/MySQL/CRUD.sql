@@ -1,0 +1,1 @@
+SELECT * FROM restaurants_finder.restaurants
